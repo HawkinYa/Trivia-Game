@@ -1,0 +1,33 @@
+body {
+    background-image: url("../images/marble.jpg");
+    margin:0;
+}
+
+#pageOne {
+    border-radius: 10px;
+    background-color: #a2b2c4;
+    box-shadow: 10px 10px 5px grey;
+    width: 700px;
+    height: 600px;
+    max-width: 700px;
+    max-height: 600px;
+    margin-top: 75px;
+}
+
+#wingmanTitle {
+    font-size: 80px;
+    font-family: 'Alegreya SC', serif;
+    margin-left: 75px;
+    margin-top: 50px;
+    color: darkslategrey;
+    text-shadow: 4px 4px 10px rgb(47, 47, 48);
+}
+
+#startButton {
+    font-size: 50px;
+    margin-left: 41%;
+    margin-top: 45%;
+    color: darkslategray;
+}
+
+
